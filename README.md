@@ -11,7 +11,7 @@ pip install "langgraph>0.2.27"
 
 Then, set proper environment variables to call Langsmith trace.
 
-This instructions are for Linux
+These instructions are for Linux
 ```bash
 export LANGSMITH_TRACING=true
 export LANGSMITH_ENDPOINT=https://api.smith.langchain.com
